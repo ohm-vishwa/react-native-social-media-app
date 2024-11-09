@@ -7,7 +7,7 @@
 
 **DataBase** : Supabase
 
-Dawnload and test my project ♥️
+Download and test my project ♥️
 
 dawnload apk here 👇
 
