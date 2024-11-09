@@ -9,7 +9,7 @@
 
 Download and test my project ♥️
 
-dawnload apk here 👇
+download apk here 👇
 
 [**Latest release**](https://github.com/ohm-vishwa/react-native-social-media-app/releases/tag/01)
 
