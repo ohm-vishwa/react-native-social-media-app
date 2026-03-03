@@ -9,7 +9,5 @@
 
 Download and test my project ♥️
 
-download apk here 👇 (Currently Backend Service is Disabled)
-
-[**Latest release**](https://github.com/ohm-vishwa/react-native-social-media-app/releases/tag/01)
+👉 [Download App](https://github.com/ohm-vishwa/react-native-social-media-app/releases/download/01/LinkUp.apk)👈 `Currently Backend Service is Disabled`
 
