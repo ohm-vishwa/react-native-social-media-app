@@ -9,5 +9,5 @@
 
 Download and test my project ♥️
 
-👉 [Download App](https://github.com/ohm-vishwa/react-native-social-media-app/releases/download/01/LinkUp.apk)👈 `Currently Backend Service is Disabled`
+👉 [Download App](https://github.com/ohm-vishwa/react-native-social-media-app/releases/download/01/LinkUp.apk) 👈 `Currently Backend Service is Disabled`
 
