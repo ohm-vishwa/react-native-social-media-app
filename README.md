@@ -9,7 +9,7 @@
 
 Download and test my project ♥️
 
-download apk here 👇
+download apk here 👇 (Currently Backend Service is Disables)
 
 [**Latest release**](https://github.com/ohm-vishwa/react-native-social-media-app/releases/tag/01)
 
